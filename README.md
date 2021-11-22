@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...all things web development
 - 📫 How to reach me ...a.groat.codes@gmail.com or on slack at alex.groat.95
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexgroat)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexGroat&show_icons=true&theme=radical)
 
 
 <!---
