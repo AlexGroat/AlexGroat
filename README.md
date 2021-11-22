@@ -1,13 +1,9 @@
-- 👋 Hi, I’m @AlexGroat
-- 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...coding
-- 💞️ I’m looking to collaborate on ...all things web development
-- 📫 How to reach me ...a.groat.codes@gmail.com or on slack at alex.groat.95
-
+Hi, my name's Alex and I am currently enrolled in the University of Adelaides Coding Bootcamp.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexGroat&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGroat)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGroat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
